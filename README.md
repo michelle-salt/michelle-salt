@@ -1,6 +1,6 @@
 👋 Hi, I’m Michelle!
 
-🎓I'm a second year Computer Science student at York University
+🎓I'm a third year Computer Science student at York University
 
 📚 I love learning new things, and have made a variety of projects, ranging from mobile apps to chrome extensions!
 
