@@ -1,10 +1,10 @@
 👋 Hi, I’m Michelle!
 
-🎓I'm a third year Computer Science student at York University
+🎓I'm a fourth year Computer Science student at York University
 
 📚 I love learning new things, and have made a variety of projects, ranging from mobile apps to chrome extensions!
 
-🌱 I'm interested in delving deeper into the world of machine learning
+🌱 I'm interested in delving deeper into the world of fintech
  <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
